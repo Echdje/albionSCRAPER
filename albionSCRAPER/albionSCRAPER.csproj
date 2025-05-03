@@ -64,8 +64,6 @@
 
     <ItemGroup>
       <Folder Include="Services\" />
-      <Folder Include="ViewModels\" />
-      <Folder Include="Views\" />
     </ItemGroup>
 
     <ItemGroup>
@@ -76,6 +74,19 @@
     
     <ItemGroup>
         <EmbeddedResource Include="Data/Testowy.json" />
+    </ItemGroup>
+    
+    <ItemGroup>
+      <MauiXaml Update="Views\MainPage.xaml">
+        <SubType>Designer</SubType>
+      </MauiXaml>
+    </ItemGroup>
+    
+    <ItemGroup>
+      <Compile Update="Views\MainPage.xaml.cs">
+        <DependentUpon>MainPage.xaml</DependentUpon>
+        <SubType>Code</SubType>
+      </Compile>
     </ItemGroup>
 
 </Project>
