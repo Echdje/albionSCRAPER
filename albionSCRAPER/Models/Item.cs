@@ -48,14 +48,26 @@ public class Item
     
     private string ExtractSubcategory(string uniqueName)
     {
+        string subcategoryName = "";
         var parts = uniqueName.Split('_');
-        return parts.Length > 2 ? parts[2] : string.Empty;
+        if (parts.Length > 2)
+        {
+            for (int i = 2; i < parts.Length - 1; i++)
+            {
+                subcategoryName += parts[i];
+                subcategoryName += " ";
+            }
+        }else{
+            return string.Empty;
+        }
+
+        return subcategoryName;
     }
     
     private string ExtractFaction(string uniqueName)
     {
         var parts = uniqueName.Split('_');
-        return parts.Length > 3 ? parts[3] : string.Empty;
+        return parts[^1];
     }
 
 }
