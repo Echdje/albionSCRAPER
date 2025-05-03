@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/adrianstanisz/RiderProjects/albionSCRAPER/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/adrianstanisz/RiderProjects/albionSCRAPER/albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.app
