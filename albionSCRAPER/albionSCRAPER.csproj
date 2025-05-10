@@ -75,7 +75,15 @@
     <ItemGroup>
         <EmbeddedResource Include="Data/Testowy.json" />
     </ItemGroup>
-    
+
+    <ItemGroup>
+        <EmbeddedResource Include="Data/coscos.json" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <EmbeddedResource Include="Data/items.json" />
+    </ItemGroup>
+
     <ItemGroup>
       <MauiXaml Update="Views\MainPage.xaml">
         <SubType>Designer</SubType>

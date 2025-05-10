@@ -15,7 +15,7 @@ public partial class MainPage : ContentPage
  
     private void dir()
     {
-        string path = "/Users/adrianstanisz/RiderProjects/albionSCRAPER/albionSCRAPER/Data/Testowy.json";
+        string path = "/Users/adrianstanisz/RiderProjects/albionSCRAPER/albionSCRAPER/Data/items.json";
 
         if (File.Exists(path))
         {

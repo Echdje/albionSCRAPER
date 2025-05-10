@@ -59,6 +59,7 @@ public class MainViewModel
     public MainViewModel()
     {
         LoadDataFromEmbeddedJson();
+        
     }
 
     private void LoadDataFromEmbeddedJson()
@@ -66,10 +67,17 @@ public class MainViewModel
         try
         {
             var assembly = Assembly.GetExecutingAssembly();
-            var resourceName = "albionSCRAPER.Data.Testowy.json";
+            var resourceName = "albionSCRAPER.Data.items.json";
 
             using Stream stream = assembly.GetManifestResourceStream(resourceName);
+            var names = assembly.GetManifestResourceNames();
+            foreach (var name in names)
+            {
+                Console.WriteLine("Zasob:" + name);
+            }
+
             if (stream == null) return;
+
 
             using var reader = new StreamReader(stream);
             string json = reader.ReadToEnd();
@@ -83,19 +91,24 @@ public class MainViewModel
             {
                 foreach (var item in items)
                 {
-                    AllItems.Add(item);
+                    if (!string.IsNullOrWhiteSpace(item.UniqueName) && item.UniqueName.StartsWith("T"))
+                        AllItems.Add(item);
                 }
             }
 
             Categories.Clear();
             foreach (var cat in AllItems.Select(i => i.Category).Distinct().OrderBy(c => c))
+            {
                 Categories.Add(cat);
+                
+                Factions.Clear();
+                foreach (var faction in AllItems.Select(i => i.Faction).Distinct().OrderBy(f => f))
+                    Factions.Add(faction);
 
-            Factions.Clear();
-            foreach (var faction in AllItems.Select(i => i.Faction).Distinct().OrderBy(f => f))
-                Factions.Add(faction);
-
-            FilterItems();
+                FilterItems();
+            }
+            Console.WriteLine("Wczytano rekordów: " + AllItems.Count);
+            
         }
         catch (Exception ex)
         {
@@ -123,18 +136,18 @@ public class MainViewModel
     {
         FilteredItems.Clear();
 
-        var filtered = AllItems.AsEnumerable();
+        //var filtered = AllItems.AsEnumerable();
+        //
+        // if (!string.IsNullOrWhiteSpace(SelectedCategory))
+        //     filtered = filtered.Where(i => i.Category == SelectedCategory);
+        //
+        // if (!string.IsNullOrWhiteSpace(SelectedSubcategory))
+        //     filtered = filtered.Where(i => i.Subcategory == SelectedSubcategory);
+        //
+        // if (!string.IsNullOrWhiteSpace(SelectedFaction))
+        //     filtered = filtered.Where(i => i.Faction == SelectedFaction);
 
-        if (!string.IsNullOrWhiteSpace(SelectedCategory))
-            filtered = filtered.Where(i => i.Category == SelectedCategory);
-
-        if (!string.IsNullOrWhiteSpace(SelectedSubcategory))
-            filtered = filtered.Where(i => i.Subcategory == SelectedSubcategory);
-
-        if (!string.IsNullOrWhiteSpace(SelectedFaction))
-            filtered = filtered.Where(i => i.Faction == SelectedFaction);
-
-        foreach (var item in filtered)
+        foreach (var item in AllItems)
             FilteredItems.Add(item);
     }
 

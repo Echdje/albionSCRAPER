@@ -1,3 +1,4 @@
+/Users/adrianstanisz/RiderProjects/albionSCRAPER/albionSCRAPER/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../albionSCRAPER.app/Data/Testowy.json
 /Users/adrianstanisz/RiderProjects/albionSCRAPER/albionSCRAPER/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../albionSCRAPER.app/icudt.dat
 /Users/adrianstanisz/RiderProjects/albionSCRAPER/albionSCRAPER/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../albionSCRAPER.app/ar/Microsoft.Maui.Controls.resources.dll
 /Users/adrianstanisz/RiderProjects/albionSCRAPER/albionSCRAPER/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../albionSCRAPER.app/ca/Microsoft.Maui.Controls.resources.dll
