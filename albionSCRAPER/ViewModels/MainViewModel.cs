@@ -3,6 +3,7 @@ using System.ComponentModel;
 using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Text.Json;
+using System.Windows.Input;
 using albionSCRAPER.Models;
 
 namespace albionSCRAPER.ViewModels;
@@ -15,6 +16,8 @@ public class MainViewModel
     public ObservableCollection<string> Categories { get; } = new();
     public ObservableCollection<string> Subcategories { get; } = new();
     public ObservableCollection<string> Factions { get; } = new();
+    public ICommand LoadNextItemCommand { get; }
+    public ICommand SearchringItemsCommand { get; }
 
     private string? selectedCategory;
     public string? SelectedCategory
@@ -59,7 +62,9 @@ public class MainViewModel
     public MainViewModel()
     {
         LoadDataFromEmbeddedJson();
-        
+        LoadNextItemCommand = new Command(LoadNextItem);
+        SearchringItemsCommand = new Command(SearchringItems);
+
     }
 
     private void LoadDataFromEmbeddedJson()
@@ -67,7 +72,7 @@ public class MainViewModel
         try
         {
             var assembly = Assembly.GetExecutingAssembly();
-            var resourceName = "albionSCRAPER.Data.items.json";
+            var resourceName = "albionSCRAPER.Data.coscos.json";
 
             using Stream stream = assembly.GetManifestResourceStream(resourceName);
             var names = assembly.GetManifestResourceNames();
@@ -158,5 +163,15 @@ public class MainViewModel
         storage = value;
         PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         return true;
+    }
+    
+    private void LoadNextItem()
+    {
+        
+    }
+    
+    private void SearchringItems()
+    {
+        
     }
 }
