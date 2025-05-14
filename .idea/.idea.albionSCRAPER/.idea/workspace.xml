@@ -10,6 +10,91 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93465655-d6f3-4fb2-afa6-763fed51b0ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/System.Private.CoreLib.dll.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/_Microsoft.Android.Resource.Designer1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER.AssemblyInfoInputs1.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER.AssemblyInfoInputs2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER10.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER13.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER9.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER9.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/aot-instances.aotdata.arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/aot-instances.aotdata1.arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/aot-instances1.aotdata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/com.companyname.albionscraper-Signed.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/com.companyname.albionscraper-Signed.apk.idsig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/com.companyname.albionscraper1.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res10.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res11.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res12.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res13.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res14.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res15.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res16.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res17.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res18.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res19.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res20.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res21.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res22.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res23.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res24.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res25.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res26.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res27.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res28.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res29.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res30.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res31.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res32.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res33.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res34.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res35.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res36.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res37.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res38.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res39.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res40.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res41.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res42.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res43.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res44.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res45.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res46.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res47.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res48.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res49.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res5.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res50.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res51.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res7.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res8.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/res9.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025__12_21__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.app/Contents/MacOS/albionSCRAPER" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.app/Contents/MacOS/albionSCRAPER" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.app/Contents/MonoBundle/albionSCRAPER.dll" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.app/Contents/MonoBundle/albionSCRAPER.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.app/Contents/MonoBundle/albionSCRAPER.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.app/Contents/MonoBundle/albionSCRAPER.pdb" afterDir="false" />
@@ -18,21 +103,21 @@
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.dll" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/R.cs.flag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/XamlC.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/R.cs.flag" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSC.EA4298AD.Up2Date" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/XamlC.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.MacCatalyst.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/_CompileBindingJava.FileList.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/_CompileJava.FileList.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/_Microsoft.Android.Resource.Designer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/_Microsoft.Android.Resource.Designer.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/__environment__.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/acw-map.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/adb.props" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER.csproj.CoreCompileInputs2.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER3.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.runtimeconfig.json.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.sourcelink.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android-arm/albionSCRAPER.GlobalUsings.g.cs" beforeDir="false" />
@@ -82,7 +167,7 @@
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/Mono.Android.Runtime.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/Mono.Android.Runtime.pdb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/Mono.Android.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/Mono.Android.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/Mono.Android.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/System.AppContext.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/System.Buffers.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/System.Collections.Concurrent.dll" beforeDir="false" />
@@ -392,9 +477,9 @@
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/Xamarin.Kotlin.StdLib.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/Xamarin.KotlinX.Coroutines.Android.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/Xamarin.KotlinX.Coroutines.Core.Jvm.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/_Microsoft.Android.Resource.Designer.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/albionSCRAPER.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/albionSCRAPER.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/_Microsoft.Android.Resource.Designer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/_Microsoft.Android.Resource.Designer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/albionSCRAPER.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER12.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/albionSCRAPER.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER4.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/ar/Microsoft.Maui.Controls.resources.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/arm64-v8a/System.Private.CoreLib.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/armeabi-v7a/System.Private.CoreLib.dll" beforeDir="false" />
@@ -437,7 +522,7 @@
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/zh-Hans/Microsoft.Maui.Controls.resources.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/assets/zh-Hant/Microsoft.Maui.Controls.resources.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/bin/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/bin/classes.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/bin/classes.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/classes.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/bin/classes/androidx/activity/R$id.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/bin/classes/androidx/activity/R.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/bin/classes/androidx/activity/ktx/R.class" beforeDir="false" />
@@ -1185,7 +1270,7 @@
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/bin/classes/mono/com/google/android/material/textfield/TextInputLayout_OnEditTextAttachedListenerImplementor.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/bin/classes/mono/com/google/android/material/textfield/TextInputLayout_OnEndIconChangedListenerImplementor.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/bin/classes2.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/bin/com.companyname.albionscraper.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/bin/com.companyname.albionscraper.apk" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/com.companyname.albionscraper.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/bin/mono.android.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/bin/packaged_resources" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/compressed_assemblies.arm64-v8a.ll" beforeDir="false" />
@@ -1197,13 +1282,13 @@
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/compressed_assemblies.x86_64.ll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/compressed_assemblies.x86_64.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/environment.arm64-v8a.ll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/environment.arm64-v8a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/environment.arm64-v8a.o" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/environment.arm64-v8a.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/environment.armeabi-v7a.ll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/environment.armeabi-v7a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/environment.armeabi-v7a.o" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/environment.armeabi-v7a.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/environment.x86.ll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/environment.x86.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/environment.x86.o" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/environment.x86.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/environment.x86_64.ll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/environment.x86_64.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/environment.x86_64.o" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/environment.x86_64.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/jni_remap.arm64-v8a.ll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/jni_remap.arm64-v8a.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/jni_remap.armeabi-v7a.ll" beforeDir="false" />
@@ -1727,10 +1812,10 @@
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/typemaps.x86_64.ll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android/typemaps.x86_64.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/android_debug_keystore.flag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/app_shared_libraries/arm64-v8a/libxamarin-app.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/app_shared_libraries/armeabi-v7a/libxamarin-app.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/app_shared_libraries/x86/libxamarin-app.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/app_shared_libraries/x86_64/libxamarin-app.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/app_shared_libraries/arm64-v8a/libxamarin-app.so" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/libxamarin-app2.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/app_shared_libraries/armeabi-v7a/libxamarin-app.so" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/libxamarin-app1.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/app_shared_libraries/x86/libxamarin-app.so" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/libxamarin-app.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/app_shared_libraries/x86_64/libxamarin-app.so" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/libxamarin-app3.so" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/assets/AboutAssets.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/assets/OpenSans-Regular.ttf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/assets/OpenSans-Semibold.ttf" beforeDir="false" />
@@ -1738,7 +1823,7 @@
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/customview-map.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/flat/values_colors.arsc.flat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/libraryimports.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/libraryprojectimports.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/libraryprojectimports.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/libraryprojectimports.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/lp/101/jl/files.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/lp/101/jl/flat/101.flata" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/lp/101/jl/res.zip" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-android/lp/101/jl/res.zip" afterDir="false" />
@@ -2000,14 +2085,13 @@
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/actool/cloned-assets/Assets.xcassets/appicon.appiconset/appicon83.5x83.5@2x.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/actool/cloned-assets/Assets.xcassets/appicon.appiconset/appiconItunesArtwork.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/actool/partial-info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSC.EA4298AD.Up2Date" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSCRAPER.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSCRAPER.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSCRAPER.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSCRAPER.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSCRAPER.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSCRAPER.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER.csproj.CoreCompileInputs1.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSCRAPER.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSCRAPER.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSCRAPER.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER11.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSCRAPER.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSCRAPER.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSCRAPER.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER1.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSCRAPER.sourcelink.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/aot-compiler-path-8.0.408.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/aot-instances.dll" beforeDir="false" />
@@ -2057,8 +2141,8 @@
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/Microsoft.VisualBasic.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/Microsoft.Win32.Primitives.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/Microsoft.Win32.Registry.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/Microsoft.iOS.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/Microsoft.iOS.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/Microsoft.iOS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/aot-instances.dll.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/Microsoft.iOS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/System.AppContext.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/System.Buffers.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/System.Collections.Concurrent.dll" beforeDir="false" />
@@ -2220,8 +2304,8 @@
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/System.Xml.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/System.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/WindowsBase.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/albionSCRAPER.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/albionSCRAPER.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/albionSCRAPER.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER14.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/albionSCRAPER.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER10.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/aot-instances.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/ar/Microsoft.Maui.Controls.resources.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/linked/ca/Microsoft.Maui.Controls.resources.dll" beforeDir="false" />
@@ -2278,12 +2362,12 @@
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/mauisplash.inputs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/mauisplash.stamp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/mtouch-symbols.list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/albionSCRAPER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/albionSCRAPER" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/aot-output/arm64/System.Private.CoreLib.aotdata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/aot-output/arm64/System.Private.CoreLib.dll.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/aot-output/arm64/System.Private.CoreLib.dll.o" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/System.Private.CoreLib.dll1.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/aot-output/arm64/System.Private.CoreLib.dll.s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/aot-output/arm64/aot-instances.aotdata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/aot-output/arm64/aot-instances.dll.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/aot-output/arm64/aot-instances.aotdata" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/aot-instances.aotdata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/aot-output/arm64/aot-instances.dll.o" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/aot-instances.dll1.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/aot-output/arm64/aot-instances.dll.s" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/libSystem.Globalization.Native.dylib" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/libSystem.IO.Compression.Native.dylib" beforeDir="false" />
@@ -2297,8 +2381,8 @@
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/libmonosgen-2.0.dylib" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/libxamarin-dotnet-debug.dylib" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/nativelibraries/main.arm64.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/ref/albionSCRAPER.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/refint/albionSCRAPER.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/ref/albionSCRAPER.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/refint/albionSCRAPER.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.albionSCRAPER/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_05_2025,_12_21_[Changes]/albionSCRAPER8.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/f/MauiInfo.plist" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/f/OpenSans-Regular.ttf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/f/OpenSans-Semibold.ttf" beforeDir="false" />
@@ -2323,366 +2407,367 @@
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/sp/splash_61635F94ABD2A93CED6F5EB7B2159B14425C9BA9C0145073F87E3E623AC94453@2x.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/sp/splash_61635F94ABD2A93CED6F5EB7B2159B14425C9BA9C0145073F87E3E623AC94453@3x.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.CSharp.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.CSharp.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.CSharp.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.CSharp.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Configuration.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Configuration.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Configuration.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Configuration.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.DependencyInjection.Abstractions.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.DependencyInjection.Abstractions.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.DependencyInjection.Abstractions.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.DependencyInjection.Abstractions.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.DependencyInjection.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.DependencyInjection.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.DependencyInjection.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.DependencyInjection.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Logging.Abstractions.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Logging.Abstractions.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Logging.Abstractions.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Logging.Abstractions.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Logging.Debug.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Logging.Debug.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Logging.Debug.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Logging.Debug.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Logging.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Logging.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Logging.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Logging.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Options.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Options.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Options.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Options.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Primitives.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Primitives.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Primitives.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Primitives.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.Compatibility.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.Compatibility.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.Compatibility.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Maui.Controls.Compatibility.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.Xaml.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.Xaml.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.Xaml.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Maui.Controls.Xaml.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Maui.Controls.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Essentials.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Essentials.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Essentials.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Maui.Essentials.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Graphics.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Graphics.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Graphics.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Maui.Graphics.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Maui.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.VisualBasic.Core.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.VisualBasic.Core.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.VisualBasic.Core.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.VisualBasic.Core.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.VisualBasic.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.VisualBasic.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.VisualBasic.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.VisualBasic.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Win32.Primitives.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Win32.Primitives.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Win32.Primitives.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Win32.Primitives.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Win32.Registry.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Win32.Registry.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Win32.Registry.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Win32.Registry.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.iOS.items" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.iOS.stamp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.AppContext.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.AppContext.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.AppContext.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.AppContext.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Buffers.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Buffers.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Buffers.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Buffers.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.Concurrent.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.Concurrent.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.Concurrent.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Collections.Concurrent.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.Immutable.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.Immutable.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.Immutable.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Collections.Immutable.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.NonGeneric.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.NonGeneric.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.NonGeneric.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Collections.NonGeneric.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.Specialized.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.Specialized.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.Specialized.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Collections.Specialized.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Collections.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.Annotations.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.Annotations.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.Annotations.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ComponentModel.Annotations.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.DataAnnotations.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.DataAnnotations.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.DataAnnotations.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ComponentModel.DataAnnotations.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.EventBasedAsync.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.EventBasedAsync.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.EventBasedAsync.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ComponentModel.EventBasedAsync.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.Primitives.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.Primitives.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.Primitives.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ComponentModel.Primitives.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.TypeConverter.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.TypeConverter.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.TypeConverter.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ComponentModel.TypeConverter.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ComponentModel.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ComponentModel.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Configuration.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Configuration.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Configuration.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Configuration.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Console.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Console.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Console.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Console.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Core.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Core.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Core.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Core.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Data.Common.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Data.Common.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Data.Common.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Data.Common.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Data.DataSetExtensions.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Data.DataSetExtensions.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Data.DataSetExtensions.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Data.DataSetExtensions.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Data.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Data.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Data.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Data.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.Contracts.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.Contracts.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.Contracts.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.Contracts.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.Debug.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.Debug.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.Debug.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.Debug.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.DiagnosticSource.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.DiagnosticSource.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.DiagnosticSource.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.DiagnosticSource.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.FileVersionInfo.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.FileVersionInfo.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.FileVersionInfo.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.FileVersionInfo.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.Process.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.Process.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.Process.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.Process.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.StackTrace.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.StackTrace.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.StackTrace.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.StackTrace.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.TextWriterTraceListener.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.TextWriterTraceListener.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.TextWriterTraceListener.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.TextWriterTraceListener.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.Tools.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.Tools.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.Tools.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.Tools.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.TraceSource.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.TraceSource.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.TraceSource.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.TraceSource.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.Tracing.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.Tracing.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Diagnostics.Tracing.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Diagnostics.Tracing.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Drawing.Primitives.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Drawing.Primitives.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Drawing.Primitives.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Drawing.Primitives.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Drawing.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Drawing.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Drawing.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Drawing.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Dynamic.Runtime.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Dynamic.Runtime.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Dynamic.Runtime.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Dynamic.Runtime.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Formats.Asn1.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Formats.Asn1.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Formats.Asn1.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Formats.Asn1.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Formats.Tar.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Formats.Tar.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Formats.Tar.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Formats.Tar.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Globalization.Calendars.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Globalization.Calendars.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Globalization.Calendars.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Globalization.Calendars.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Globalization.Extensions.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Globalization.Extensions.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Globalization.Extensions.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Globalization.Extensions.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Globalization.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Globalization.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Globalization.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Globalization.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Compression.Brotli.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Compression.Brotli.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Compression.Brotli.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.Compression.Brotli.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Compression.FileSystem.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Compression.FileSystem.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Compression.FileSystem.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.Compression.FileSystem.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Compression.ZipFile.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Compression.ZipFile.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Compression.ZipFile.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.Compression.ZipFile.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Compression.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Compression.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Compression.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.Compression.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.FileSystem.AccessControl.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.FileSystem.AccessControl.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.FileSystem.AccessControl.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.FileSystem.AccessControl.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.FileSystem.DriveInfo.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.FileSystem.DriveInfo.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.FileSystem.DriveInfo.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.FileSystem.DriveInfo.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.FileSystem.Primitives.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.FileSystem.Primitives.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.FileSystem.Primitives.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.FileSystem.Primitives.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.FileSystem.Watcher.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.FileSystem.Watcher.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.FileSystem.Watcher.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.FileSystem.Watcher.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.FileSystem.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.FileSystem.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.FileSystem.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.FileSystem.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.IsolatedStorage.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.IsolatedStorage.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.IsolatedStorage.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.IsolatedStorage.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.MemoryMappedFiles.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.MemoryMappedFiles.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.MemoryMappedFiles.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.MemoryMappedFiles.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Pipes.AccessControl.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Pipes.AccessControl.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Pipes.AccessControl.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.Pipes.AccessControl.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Pipes.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Pipes.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.Pipes.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.Pipes.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.UnmanagedMemoryStream.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.UnmanagedMemoryStream.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.UnmanagedMemoryStream.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.UnmanagedMemoryStream.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.IO.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.IO.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Linq.Expressions.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Linq.Expressions.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Linq.Expressions.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Linq.Expressions.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Linq.Parallel.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Linq.Parallel.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Linq.Parallel.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Linq.Parallel.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Linq.Queryable.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Linq.Queryable.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Linq.Queryable.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Linq.Queryable.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Linq.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Linq.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Linq.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Linq.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Memory.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Memory.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Memory.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Memory.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Http.Json.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Http.Json.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Http.Json.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Http.Json.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Http.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Http.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Http.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Http.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.HttpListener.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.HttpListener.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.HttpListener.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.HttpListener.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Mail.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Mail.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Mail.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Mail.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.NameResolution.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.NameResolution.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.NameResolution.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.NameResolution.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.NetworkInformation.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.NetworkInformation.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.NetworkInformation.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.NetworkInformation.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Ping.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Ping.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Ping.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Ping.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Primitives.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Primitives.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Primitives.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Primitives.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Quic.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Quic.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Quic.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Quic.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Requests.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Requests.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Requests.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Requests.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Security.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Security.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Security.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Security.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.ServicePoint.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.ServicePoint.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.ServicePoint.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.ServicePoint.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Sockets.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Sockets.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.Sockets.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.Sockets.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.WebClient.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.WebClient.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.WebClient.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.WebClient.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.WebHeaderCollection.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.WebHeaderCollection.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.WebHeaderCollection.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.WebHeaderCollection.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.WebProxy.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.WebProxy.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.WebProxy.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.WebProxy.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.WebSockets.Client.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.WebSockets.Client.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.WebSockets.Client.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.WebSockets.Client.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.WebSockets.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.WebSockets.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.WebSockets.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.WebSockets.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Net.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Net.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Numerics.Vectors.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Numerics.Vectors.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Numerics.Vectors.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Numerics.Vectors.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Numerics.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Numerics.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Numerics.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Numerics.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ObjectModel.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ObjectModel.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ObjectModel.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ObjectModel.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.DispatchProxy.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.DispatchProxy.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.DispatchProxy.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.DispatchProxy.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Emit.ILGeneration.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Emit.ILGeneration.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Emit.ILGeneration.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.Emit.ILGeneration.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Emit.Lightweight.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Emit.Lightweight.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Emit.Lightweight.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.Emit.Lightweight.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Emit.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Emit.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Emit.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.Emit.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Extensions.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Extensions.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Extensions.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.Extensions.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Metadata.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Metadata.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Metadata.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.Metadata.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Primitives.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Primitives.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.Primitives.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.Primitives.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.TypeExtensions.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.TypeExtensions.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.TypeExtensions.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.TypeExtensions.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Reflection.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Reflection.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Resources.Reader.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Resources.Reader.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Resources.Reader.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Resources.Reader.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Resources.ResourceManager.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Resources.ResourceManager.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Resources.ResourceManager.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Resources.ResourceManager.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Resources.Writer.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Resources.Writer.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Resources.Writer.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Resources.Writer.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.CompilerServices.Unsafe.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.CompilerServices.Unsafe.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.CompilerServices.Unsafe.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.CompilerServices.Unsafe.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.CompilerServices.VisualC.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.CompilerServices.VisualC.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.CompilerServices.VisualC.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.CompilerServices.VisualC.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Extensions.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Extensions.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Extensions.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Extensions.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Handles.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Handles.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Handles.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Handles.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.InteropServices.JavaScript.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.InteropServices.JavaScript.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.InteropServices.JavaScript.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.InteropServices.JavaScript.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.InteropServices.RuntimeInformation.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.InteropServices.RuntimeInformation.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.InteropServices.RuntimeInformation.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.InteropServices.RuntimeInformation.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.InteropServices.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.InteropServices.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.InteropServices.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.InteropServices.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Intrinsics.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Intrinsics.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Intrinsics.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Intrinsics.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Loader.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Loader.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Loader.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Loader.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Numerics.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Numerics.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Numerics.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Numerics.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Serialization.Formatters.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Serialization.Formatters.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Serialization.Formatters.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Serialization.Formatters.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Serialization.Json.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Serialization.Json.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Serialization.Json.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Serialization.Json.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Serialization.Primitives.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Serialization.Primitives.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Serialization.Primitives.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Serialization.Primitives.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Serialization.Xml.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Serialization.Xml.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Serialization.Xml.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Serialization.Xml.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Serialization.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Serialization.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.Serialization.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.Serialization.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Runtime.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Runtime.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.AccessControl.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.AccessControl.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.AccessControl.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.AccessControl.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Claims.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Claims.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Claims.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Claims.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.Algorithms.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.Algorithms.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.Algorithms.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.Algorithms.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.Cng.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.Cng.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.Cng.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.Cng.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.Csp.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.Csp.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.Csp.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.Csp.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.Encoding.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.Encoding.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.Encoding.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.Encoding.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.OpenSsl.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.OpenSsl.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.OpenSsl.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.OpenSsl.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.Primitives.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.Primitives.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.Primitives.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.Primitives.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.X509Certificates.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.X509Certificates.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.X509Certificates.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.X509Certificates.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Cryptography.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Cryptography.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Principal.Windows.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Principal.Windows.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Principal.Windows.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Principal.Windows.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Principal.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Principal.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.Principal.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.Principal.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.SecureString.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.SecureString.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.SecureString.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.SecureString.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Security.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Security.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ServiceModel.Web.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ServiceModel.Web.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ServiceModel.Web.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ServiceModel.Web.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ServiceProcess.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ServiceProcess.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ServiceProcess.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ServiceProcess.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.Encoding.CodePages.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.Encoding.CodePages.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.Encoding.CodePages.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Text.Encoding.CodePages.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.Encoding.Extensions.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.Encoding.Extensions.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.Encoding.Extensions.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Text.Encoding.Extensions.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.Encoding.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.Encoding.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.Encoding.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Text.Encoding.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.Encodings.Web.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.Encodings.Web.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.Encodings.Web.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Text.Encodings.Web.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.Json.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.Json.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.Json.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Text.Json.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.RegularExpressions.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.RegularExpressions.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Text.RegularExpressions.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Text.RegularExpressions.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Channels.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Channels.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Channels.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Channels.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Overlapped.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Overlapped.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Overlapped.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Overlapped.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Tasks.Dataflow.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Tasks.Dataflow.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Tasks.Dataflow.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Tasks.Dataflow.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Tasks.Extensions.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Tasks.Extensions.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Tasks.Extensions.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Tasks.Extensions.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Tasks.Parallel.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Tasks.Parallel.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Tasks.Parallel.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Tasks.Parallel.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Tasks.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Tasks.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Tasks.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Tasks.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Thread.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Thread.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Thread.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Thread.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.ThreadPool.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.ThreadPool.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.ThreadPool.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.ThreadPool.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Timer.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Timer.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.Timer.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.Timer.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Threading.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Threading.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Transactions.Local.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Transactions.Local.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Transactions.Local.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Transactions.Local.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Transactions.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Transactions.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Transactions.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Transactions.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ValueTuple.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ValueTuple.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.ValueTuple.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.ValueTuple.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Web.HttpUtility.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Web.HttpUtility.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Web.HttpUtility.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Web.HttpUtility.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Web.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Web.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Web.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Web.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Windows.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Windows.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Windows.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Windows.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.Linq.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.Linq.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.Linq.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.Linq.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.ReaderWriter.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.ReaderWriter.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.ReaderWriter.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.ReaderWriter.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.Serialization.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.Serialization.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.Serialization.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.Serialization.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XDocument.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XDocument.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XDocument.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.XDocument.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XPath.XDocument.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XPath.XDocument.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XPath.XDocument.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.XPath.XDocument.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XPath.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XPath.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XPath.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.XPath.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XmlDocument.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XmlDocument.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XmlDocument.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.XmlDocument.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XmlSerializer.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XmlSerializer.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.XmlSerializer.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.XmlSerializer.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Xml.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/WindowsBase.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/WindowsBase.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/WindowsBase.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/WindowsBase.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/mscorlib.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/mscorlib.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/mscorlib.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/mscorlib.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/netstandard.items" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/netstandard.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/netstandard.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/netstandard.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/runtimeconfig.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.dll" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.pdb" afterDir="false" />
@@ -2698,6 +2783,7 @@
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/aot-output/arm64/aot-instances.dll.s" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/aot-output/arm64/aot-instances.dll.s" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/albionSCRAPER.dll" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/albionSCRAPER.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/refint/albionSCRAPER.dll" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/refint/albionSCRAPER.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/albionSCRAPER/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -2829,7 +2915,7 @@
       <workItem from="1746791127552" duration="854000" />
       <workItem from="1746863657862" duration="8159000" />
       <workItem from="1746887650597" duration="2180000" />
-      <workItem from="1747128259002" duration="10496000" />
+      <workItem from="1747128259002" duration="11569000" />
     </task>
     <task id="LOCAL-00001" summary="niech dziala proooosze">
       <option name="closed" value="true" />
