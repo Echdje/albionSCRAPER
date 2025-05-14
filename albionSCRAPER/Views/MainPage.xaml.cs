@@ -1,5 +1,6 @@
 ﻿
 using albionSCRAPER.ViewModels;
+using albionSCRAPER.Views;
 
 namespace albionSCRAPER;
 
@@ -9,10 +10,22 @@ public partial class MainPage : ContentPage
     public MainPage()
     {
         InitializeComponent();
-        BindingContext = new MainViewModel();
+        var vm = new MainViewModel();
+        vm.OnOpenSearchingItemsView = () => OpenSearchingItemsView();
+
+        BindingContext = vm;
     }
 
- 
+    private async void OpenSearchingItemsView()
+    {
+        var viewModel = new SearchingItemsViewModel();
+        var page = new SearchingItemsView
+        {
+            BindingContext = viewModel
+        };
+        await Navigation.PushAsync(page);
+    }
+
     private void dir()
     {
         string path = "/Users/adrianstanisz/RiderProjects/albionSCRAPER/albionSCRAPER/Data/items.json";

@@ -17,7 +17,9 @@ public class MainViewModel
     public ObservableCollection<string> Subcategories { get; } = new();
     public ObservableCollection<string> Factions { get; } = new();
     public ICommand LoadNextItemCommand { get; }
-    public ICommand SearchringItemsCommand { get; }
+    public ICommand SearchingItemsCommand { get; }
+    
+    public Action? OnOpenSearchingItemsView { get; set; }
 
     private string? selectedCategory;
     public string? SelectedCategory
@@ -63,7 +65,7 @@ public class MainViewModel
     {
         LoadDataFromEmbeddedJson();
         LoadNextItemCommand = new Command(LoadNextItem);
-        SearchringItemsCommand = new Command(SearchringItems);
+        SearchingItemsCommand = new Command(SearchingItems);
 
     }
 
@@ -170,8 +172,8 @@ public class MainViewModel
         
     }
     
-    private void SearchringItems()
+    private void SearchingItems()
     {
-        
+        OnOpenSearchingItemsView?.Invoke();
     }
 }
