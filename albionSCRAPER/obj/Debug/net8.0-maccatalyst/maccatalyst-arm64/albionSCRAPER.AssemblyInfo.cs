@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("albionSCRAPER")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e1babda6ade01cc6fc21d20f88426c419a504d02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+3b31c4f92458163cdd91f9cc0de4124c743a8f0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("albionSCRAPER")]
 [assembly: System.Reflection.AssemblyTitleAttribute("albionSCRAPER")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
