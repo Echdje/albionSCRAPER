@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93465655-d6f3-4fb2-afa6-763fed51b0ac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/albionSCRAPER/Models/EmailConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/albionSCRAPER/Models/EmailConfig.cs" afterDir="false" />
-    </list>
+    <list default="true" id="93465655-d6f3-4fb2-afa6-763fed51b0ac" name="Changes" comment="Merge branch 'dev'&#10;&#10;# Conflicts:&#10;#&#9;albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.app/Contents/MacOS/albionSCRAPER&#10;#&#9;albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.app/Contents/MonoBundle/albionSCRAPER.dll&#10;#&#9;albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.app/Contents/MonoBundle/albionSCRAPER.pdb&#10;#&#9;albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.app/Contents/_CodeSignature/CodeResources&#10;#&#9;albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.dll&#10;#&#9;albionSCRAPER/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.pdb&#10;#&#9;albionSCRAPER/obj/Debug/net8.0-android/_Microsoft.Android.Resource.Designer.dll&#10;#&#9;albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.AssemblyInfo.cs&#10;#&#9;albionSCRAPER/obj/Debug/net8.0-android/albionSCRAPER.AssemblyInfoInputs.cache&#10;#&#9;albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSCRAPER.AssemblyInfo.cs&#10;#&#9;albionSCRAPER/obj/Debug/net8.0-ios/iossimulator-arm64/albionSCRAPER.AssemblyInfoInputs.cache&#10;#&#9;albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.AssemblyInfo.cs&#10;#&#9;albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.AssemblyInfoInputs.cache&#10;#&#9;albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.dll&#10;#&#9;albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.pdb&#10;#&#9;albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/albionSCRAPER.sourcelink.json&#10;#&#9;albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linked/albionSCRAPER.dll&#10;#&#9;albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/linked/albionSCRAPER.pdb&#10;#&#9;albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/nativelibraries/albionSCRAPER&#10;#&#9;albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/albionSCRAPER.dll&#10;#&#9;albionSCRAPER/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/refint/albionSCRAPER.dll" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,27 +68,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Android.albionSCRAPER.executor": "Run",
-    "Device#class com.jetbrains.rider.run.multiPlatform.ios.devices.IOSSimulatorKind#com.jetbrains.rider.run.multiPlatform.ios.devices.IOSDevicesProvider#iOS: albionSCRAPER": "iPhone 16 Pro Max",
-    "Device#class com.jetbrains.rider.run.multiPlatform.ios.devices.IOSSimulatorKind#com.jetbrains.rider.run.multiPlatform.ios.devices.IOSDevicesProvider#macOS: albionSCRAPER": "iPhone 16",
-    "DeviceKind#com.jetbrains.rider.run.multiPlatform.ios.devices.IOSDevicesProvider": "Simulator",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "dev",
-    "iOS.albionSCRAPER.executor": "Run",
-    "macOS.albionSCRAPER.executor": "Run",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android.albionSCRAPER.executor&quot;: &quot;Run&quot;,
+    &quot;Device#class com.jetbrains.rider.run.multiPlatform.ios.devices.IOSSimulatorKind#com.jetbrains.rider.run.multiPlatform.ios.devices.IOSDevicesProvider#iOS: albionSCRAPER&quot;: &quot;iPhone 16 Pro Max&quot;,
+    &quot;Device#class com.jetbrains.rider.run.multiPlatform.ios.devices.IOSSimulatorKind#com.jetbrains.rider.run.multiPlatform.ios.devices.IOSDevicesProvider#macOS: albionSCRAPER&quot;: &quot;iPhone 16&quot;,
+    &quot;DeviceKind#com.jetbrains.rider.run.multiPlatform.ios.devices.IOSDevicesProvider&quot;: &quot;Simulator&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;iOS.albionSCRAPER.executor&quot;: &quot;Run&quot;,
+    &quot;macOS.albionSCRAPER.executor&quot;: &quot;Run&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="macOS.albionSCRAPER">
     <configuration name="albionSCRAPER" type="XamarinAndroidProject" factoryName="Xamarin.Android">
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/albionSCRAPER/albionSCRAPER.csproj" />
